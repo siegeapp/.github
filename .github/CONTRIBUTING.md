@@ -3,6 +3,7 @@
 - The development will be done **in English**.
 - Commit messages **must** follow [Conventional Commits specifications](https://www.conventionalcommits.org/en/v1.0.0/#specification).
 - Branches **must** follow the [Git Flow pattern](https://github.com/petervanderdoes/gitflow-avh).
+- Versioning must follow the [Semantic Versioning specifications](https://semver.org/).
 - Every contribution **must** be accompanied by a test suite that tests the new feature or simulates the bug to be fixed.
 - All code **must** follow its language's styling conventions.
 
