@@ -11,6 +11,12 @@
 
 This guide assumes you have Git Flow installed on your system. The `main` branch is **always** the production branch, and the `develop` branch is **always** the development branch.
 
+Clone the repository you are going to develop and use the following command to start Git Flow:
+
+```sh
+git flow init
+```
+
 To create a feature/bugfix branch, use the command:
 
 ```sh
