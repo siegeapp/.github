@@ -10,6 +10,7 @@ Please check if your PR fulfills the following requirements:
 - [ ] I have added all the plugins and configs as `dependencies`
 - [ ] I have tested the updates and ensured that they run successfully
 - [ ] All CI tests passed successfully
+- [ ] I've added/updated the documentation to reflect the changes
 
 ## PR Type
 
